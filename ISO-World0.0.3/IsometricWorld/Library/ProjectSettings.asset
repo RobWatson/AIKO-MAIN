@@ -3,20 +3,32 @@
 --- !u!129 &1
 PlayerSettings:
   m_ObjectHideFlags: 0
+<<<<<<< HEAD
   serializedVersion: 8
   productGUID: fe56e600622e94b55af4729a1f4d66c0
   AndroidProfiler: 0
   defaultScreenOrientation: 4
   targetDevice: 2
+=======
+  serializedVersion: 7
+  AndroidProfiler: 0
+  defaultScreenOrientation: 4
+  targetDevice: 2
+  targetResolution: 0
+>>>>>>> origin/master
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
   productName: IsometricWorld
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
+<<<<<<< HEAD
   m_SplashScreenStyle: 0
   m_ShowUnitySplashScreen: 1
   m_VirtualRealitySplashScreen: {fileID: 0}
+=======
+  m_ShowUnitySplashScreen: 1
+>>>>>>> origin/master
   defaultScreenWidth: 1024
   defaultScreenHeight: 768
   defaultScreenWidthWeb: 960
@@ -26,7 +38,11 @@ PlayerSettings:
   m_ActiveColorSpace: 0
   m_MTRendering: 1
   m_MobileMTRendering: 0
+<<<<<<< HEAD
   m_StackTraceTypes: 010000000100000001000000010000000100000001000000
+=======
+  m_Stereoscopic3D: 0
+>>>>>>> origin/master
   iosShowActivityIndicatorOnLoading: -1
   androidShowActivityIndicatorOnLoading: -1
   iosAppInBackgroundBehavior: 0
@@ -52,20 +68,27 @@ PlayerSettings:
   resizableWindow: 0
   useMacAppStoreValidation: 0
   gpuSkinning: 0
+<<<<<<< HEAD
   graphicsJobs: 0
+=======
+>>>>>>> origin/master
   xboxPIXTextureCapture: 0
   xboxEnableAvatar: 0
   xboxEnableKinect: 0
   xboxEnableKinectAutoTracking: 0
   xboxEnableFitness: 0
   visibleInBackground: 0
+<<<<<<< HEAD
   allowFullscreenSwitch: 1
+=======
+>>>>>>> origin/master
   macFullscreenMode: 2
   d3d9FullscreenMode: 1
   d3d11FullscreenMode: 1
   xboxSpeechDB: 0
   xboxEnableHeadOrientation: 0
   xboxEnableGuest: 0
+<<<<<<< HEAD
   xboxEnablePIXSampling: 0
   n3dsDisableStereoscopicView: 0
   n3dsEnableSharedListOpt: 1
@@ -74,6 +97,12 @@ PlayerSettings:
   ignoreAlphaClear: 0
   xboxOneResolution: 0
   xboxOneMonoLoggingLevel: 0
+=======
+  n3dsDisableStereoscopicView: 0
+  n3dsEnableSharedListOpt: 1
+  n3dsEnableVSync: 0
+  xboxOneResolution: 0
+>>>>>>> origin/master
   ps3SplashScreen: {fileID: 0}
   videoMemoryForVertexBuffers: 0
   psp2PowerMode: 0
@@ -97,9 +126,16 @@ PlayerSettings:
   bundleVersion: 1.0
   preloadedAssets: []
   metroEnableIndependentInputSource: 0
+<<<<<<< HEAD
   xboxOneDisableKinectGpuReservation: 0
   singlePassStereoRendering: 0
   protectGraphicsMemory: 0
+=======
+  metroEnableLowLatencyPresentationAPI: 0
+  xboxOneDisableKinectGpuReservation: 0
+  virtualRealitySupported: 0
+  productGUID: fe56e600622e94b55af4729a1f4d66c0
+>>>>>>> origin/master
   AndroidBundleVersionCode: 1
   AndroidMinSdkVersion: 9
   AndroidPreferredInstallLocation: 1
@@ -120,11 +156,16 @@ PlayerSettings:
     m_Bits: 238
   iPhoneSdkVersion: 988
   iPhoneTargetOSVersion: 22
+<<<<<<< HEAD
   tvOSSdkVersion: 0
   tvOSTargetOSVersion: 900
   uIPrerenderedIcon: 0
   uIRequiresPersistentWiFi: 0
   uIRequiresFullScreen: 1
+=======
+  uIPrerenderedIcon: 0
+  uIRequiresPersistentWiFi: 0
+>>>>>>> origin/master
   uIStatusBarHidden: 1
   uIExitOnSuspend: 0
   uIStatusBarStyle: 0
@@ -138,10 +179,13 @@ PlayerSettings:
   iPadHighResPortraitSplashScreen: {fileID: 0}
   iPadLandscapeSplashScreen: {fileID: 0}
   iPadHighResLandscapeSplashScreen: {fileID: 0}
+<<<<<<< HEAD
   appleTVSplashScreen: {fileID: 0}
   tvOSSmallIconLayers: []
   tvOSLargeIconLayers: []
   tvOSTopShelfImageLayers: []
+=======
+>>>>>>> origin/master
   iOSLaunchScreenType: 0
   iOSLaunchScreenPortrait: {fileID: 0}
   iOSLaunchScreenLandscape: {fileID: 0}
@@ -160,7 +204,10 @@ PlayerSettings:
   iOSLaunchScreeniPadSize: 100
   iOSLaunchScreeniPadCustomXibPath: 
   iOSDeviceRequirements: []
+<<<<<<< HEAD
   iOSURLSchemes: []
+=======
+>>>>>>> origin/master
   AndroidTargetDevice: 0
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
@@ -255,7 +302,10 @@ PlayerSettings:
   ps4NPtitleDatPath: 
   ps4RemotePlayKeyAssignment: -1
   ps4RemotePlayKeyMappingDir: 
+<<<<<<< HEAD
   ps4PlayTogetherPlayerCount: 0
+=======
+>>>>>>> origin/master
   ps4EnterButtonAssignment: 1
   ps4ApplicationParam1: 0
   ps4ApplicationParam2: 0
@@ -264,13 +314,17 @@ PlayerSettings:
   ps4DownloadDataSize: 0
   ps4GarlicHeapSize: 2048
   ps4Passcode: 5PN2qmWqBlQ9wQj99nsQzldVI5ZuGXbE
+<<<<<<< HEAD
   ps4UseDebugIl2cppLibs: 0
+=======
+>>>>>>> origin/master
   ps4pnSessions: 1
   ps4pnPresence: 1
   ps4pnFriends: 1
   ps4pnGameCustomData: 1
   playerPrefsSupport: 0
   ps4ReprojectionSupport: 0
+<<<<<<< HEAD
   ps4UseAudio3dBackend: 0
   ps4SocialScreenEnabled: 0
   ps4Audio3dVirtualSpeakerCount: 14
@@ -278,12 +332,17 @@ PlayerSettings:
   ps4PatchPkgPath: 
   ps4PatchLatestPkgPath: 
   ps4PatchChangeinfoPath: 
+=======
+>>>>>>> origin/master
   ps4attribUserManagement: 0
   ps4attribMoveSupport: 0
   ps4attrib3DSupport: 0
   ps4attribShareSupport: 0
+<<<<<<< HEAD
   ps4attribExclusiveVR: 0
   ps4disableAutoHideSplash: 0
+=======
+>>>>>>> origin/master
   ps4IncludedModules: []
   monoEnv: 
   psp2Splashimage: {fileID: 0}
@@ -332,11 +391,21 @@ PlayerSettings:
   psp2UseLibLocation: 0
   psp2InfoBarOnStartup: 0
   psp2InfoBarColor: 0
+<<<<<<< HEAD
   psp2UseDebugIl2cppLibs: 0
+=======
+>>>>>>> origin/master
   psmSplashimage: {fileID: 0}
   spritePackerPolicy: 
   scriptingDefineSymbols: {}
   metroPackageName: IsometricWorld
+<<<<<<< HEAD
+=======
+  metroPackageLogo: 
+  metroPackageLogo140: 
+  metroPackageLogo180: 
+  metroPackageLogo240: 
+>>>>>>> origin/master
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
@@ -344,7 +413,48 @@ PlayerSettings:
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
   metroApplicationDescription: IsometricWorld
+<<<<<<< HEAD
   wsaImages: {}
+=======
+  metroStoreTileLogo80: 
+  metroStoreTileLogo: 
+  metroStoreTileLogo140: 
+  metroStoreTileLogo180: 
+  metroStoreTileWideLogo80: 
+  metroStoreTileWideLogo: 
+  metroStoreTileWideLogo140: 
+  metroStoreTileWideLogo180: 
+  metroStoreTileSmallLogo80: 
+  metroStoreTileSmallLogo: 
+  metroStoreTileSmallLogo140: 
+  metroStoreTileSmallLogo180: 
+  metroStoreSmallTile80: 
+  metroStoreSmallTile: 
+  metroStoreSmallTile140: 
+  metroStoreSmallTile180: 
+  metroStoreLargeTile80: 
+  metroStoreLargeTile: 
+  metroStoreLargeTile140: 
+  metroStoreLargeTile180: 
+  metroStoreSplashScreenImage: 
+  metroStoreSplashScreenImage140: 
+  metroStoreSplashScreenImage180: 
+  metroPhoneAppIcon: 
+  metroPhoneAppIcon140: 
+  metroPhoneAppIcon240: 
+  metroPhoneSmallTile: 
+  metroPhoneSmallTile140: 
+  metroPhoneSmallTile240: 
+  metroPhoneMediumTile: 
+  metroPhoneMediumTile140: 
+  metroPhoneMediumTile240: 
+  metroPhoneWideTile: 
+  metroPhoneWideTile140: 
+  metroPhoneWideTile240: 
+  metroPhoneSplashScreenImage: 
+  metroPhoneSplashScreenImage140: 
+  metroPhoneSplashScreenImage240: 
+>>>>>>> origin/master
   metroTileShortName: 
   metroCommandLineArgsFile: 
   metroTileShowName: 0
@@ -353,15 +463,41 @@ PlayerSettings:
   metroWideTileShowName: 0
   metroDefaultTileSize: 1
   metroTileForegroundText: 1
+<<<<<<< HEAD
   metroTileBackgroundColor: {r: 0.13333334, g: 0.17254902, b: 0.21568628, a: 0}
   metroSplashScreenBackgroundColor: {r: 0.13333334, g: 0.17254902, b: 0.21568628,
     a: 1}
+=======
+  metroTileBackgroundColor: {r: .13333334, g: .172549024, b: .215686277, a: 0}
+  metroSplashScreenBackgroundColor: {r: .13333334, g: .172549024, b: .215686277, a: 1}
+>>>>>>> origin/master
   metroSplashScreenUseBackgroundColor: 1
   platformCapabilities: {}
   metroFTAName: 
   metroFTAFileTypes: []
   metroProtocolName: 
   metroCompilationOverrides: 1
+<<<<<<< HEAD
+=======
+  blackberryDeviceAddress: 
+  blackberryDevicePassword: 
+  blackberryTokenPath: 
+  blackberryTokenExires: 
+  blackberryTokenAuthor: 
+  blackberryTokenAuthorId: 
+  blackberryCskPassword: 
+  blackberrySaveLogPath: 
+  blackberrySharedPermissions: 0
+  blackberryCameraPermissions: 0
+  blackberryGPSPermissions: 0
+  blackberryDeviceIDPermissions: 0
+  blackberryMicrophonePermissions: 0
+  blackberryGamepadSupport: 0
+  blackberryBuildId: 0
+  blackberryLandscapeSplashScreen: {fileID: 0}
+  blackberryPortraitSplashScreen: {fileID: 0}
+  blackberrySquareSplashScreen: {fileID: 0}
+>>>>>>> origin/master
   tizenProductDescription: 
   tizenProductURL: 
   tizenSigningProfileName: 
@@ -428,6 +564,7 @@ PlayerSettings:
   iOS::EnableIncrementalBuildSupportForIl2cpp: 1
   iOS::ScriptingBackend: 1
   boolPropertyNames:
+<<<<<<< HEAD
   - Android::VR::enable
   - Metro::VR::enable
   - N3DS::VR::enable
@@ -533,6 +670,24 @@ PlayerSettings:
   XboxOne::VR::enabledDevices: []
   iOS::VR::enabledDevices: []
   tvOS::VR::enabledDevices: []
+=======
+  - WebGL::analyzeBuildSize
+  - WebGL::dataCaching
+  - WebGL::useEmbeddedResources
+  - XboxOne::enus
+  WebGL::analyzeBuildSize: 0
+  WebGL::dataCaching: 0
+  WebGL::useEmbeddedResources: 0
+  XboxOne::enus: 1
+  stringPropertyNames:
+  - WebGL::emscriptenArgs
+  - WebGL::template
+  - additionalIl2CppArgs::additionalIl2CppArgs
+  WebGL::emscriptenArgs: 
+  WebGL::template: APPLICATION:Default
+  additionalIl2CppArgs::additionalIl2CppArgs: 
+  firstStreamedSceneWithResources: 0
+>>>>>>> origin/master
   cloudProjectId: 
   projectName: 
   organizationId: 

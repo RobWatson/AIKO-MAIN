@@ -3,13 +3,18 @@
 --- !u!30 &1
 GraphicsSettings:
   m_ObjectHideFlags: 0
+<<<<<<< HEAD
   serializedVersion: 7
+=======
+  serializedVersion: 4
+>>>>>>> origin/master
   m_Deferred:
     m_Mode: 1
     m_Shader: {fileID: 69, guid: 0000000000000000f000000000000000, type: 0}
   m_DeferredReflections:
     m_Mode: 1
     m_Shader: {fileID: 74, guid: 0000000000000000f000000000000000, type: 0}
+<<<<<<< HEAD
   m_ScreenSpaceShadows:
     m_Mode: 1
     m_Shader: {fileID: 64, guid: 0000000000000000f000000000000000, type: 0}
@@ -28,6 +33,11 @@ GraphicsSettings:
   m_LensFlare:
     m_Mode: 1
     m_Shader: {fileID: 102, guid: 0000000000000000f000000000000000, type: 0}
+=======
+  m_LegacyDeferred:
+    m_Mode: 1
+    m_Shader: {fileID: 63, guid: 0000000000000000f000000000000000, type: 0}
+>>>>>>> origin/master
   m_AlwaysIncludedShaders:
   - {fileID: 7, guid: 0000000000000000f000000000000000, type: 0}
   - {fileID: 15104, guid: 0000000000000000f000000000000000, type: 0}
@@ -36,6 +46,7 @@ GraphicsSettings:
   - {fileID: 10770, guid: 0000000000000000f000000000000000, type: 0}
   - {fileID: 10782, guid: 0000000000000000f000000000000000, type: 0}
   m_PreloadedShaders: []
+<<<<<<< HEAD
   m_SpritesDefaultMaterial: {fileID: 10754, guid: 0000000000000000f000000000000000,
     type: 0}
   m_ShaderSettings_Tier1:
@@ -56,12 +67,19 @@ GraphicsSettings:
   m_BuildTargetShaderSettings: []
   m_LightmapStripping: 0
   m_FogStripping: 0
+=======
+  m_LightmapStripping: 0
+>>>>>>> origin/master
   m_LightmapKeepPlain: 1
   m_LightmapKeepDirCombined: 1
   m_LightmapKeepDirSeparate: 1
   m_LightmapKeepDynamicPlain: 1
   m_LightmapKeepDynamicDirCombined: 1
   m_LightmapKeepDynamicDirSeparate: 1
+<<<<<<< HEAD
+=======
+  m_FogStripping: 0
+>>>>>>> origin/master
   m_FogKeepLinear: 1
   m_FogKeepExp: 1
   m_FogKeepExp2: 1
